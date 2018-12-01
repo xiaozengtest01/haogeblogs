@@ -1,0 +1,26 @@
+.top .left a:hover{
+	font-weight: 900;
+}
+.top .right a:hover{
+	font-weight: 900;
+}
+.body1 .left ul li:hover .box1{
+	display: block;
+	box-shadow: 1px -1px 10px gray;
+}
+.body1 .left ul li:hover{
+	background: #FF6700;
+}
+.body1 .left .box1 ul li:hover{
+	background: white;
+}
+.body1 .left .box1 ul li:hover span{
+	color: #FF6700;
+}
+.body2 .left ul li:hover a{
+	font-weight: 900;
+}
+.body2 .left ul li:hover img{
+	width: 29px;
+	height: 29px;
+}
